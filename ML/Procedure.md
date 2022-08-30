@@ -39,10 +39,18 @@
     - Outlier check
     
     - Data preparation for modeling
+
+        - create dummy variables for categorical variables
+
+        - separating the independent variables x and dependent variables y
+
+        - 缩放数据
+
+        - 将数据分成70%的训练集和30%的测试集
     
     - Check for multicollinearity
     
-## Building models
+## Building models （逻辑回归+KNN）
 
     - model performance on the test and train data
     
@@ -87,6 +95,8 @@
     - Root mean squared error
 
     - Apply cross validation to improve the model and evaluate it using different evaluation metrics
+
+    - 使用KNN的时候记得用GridSearchCV对模型进行超参数调优
 
 
 ## Prediction on the test dataset
