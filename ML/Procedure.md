@@ -1,6 +1,6 @@
 # ML project procedure
 
-- Importing the necessary libraries and overview the datasets
+## Importing the necessary libraries and overview the datasets
 
     - Importing the dataset
 
@@ -12,7 +12,7 @@
 
     - Check the missing values in the dataset
     
-- Exploratory data analysis (EDA) 变量的分布，不同变量之间存在的分布，异常数据（缺失or异常），如何处理它们已准备数据集以构建预测模型
+## Exploratory data analysis (EDA) 变量的分布，不同变量之间存在的分布，异常数据（缺失or异常），如何处理它们已准备数据集以构建预测模型
 
     - Check the statistical summary of dataset
     
@@ -42,7 +42,7 @@
     
     - Check for multicollinearity
     
-- Building models
+## Building models
 
     - model performance on the test and train data
     
@@ -60,13 +60,15 @@
     
     - Checking model 2 performance
 
-    - Feature selection
+## Feature selection
 
-       - 检测多重共线性：衡量VIF；检测p值
+       - Removing multicollinearity 检测多重共线性：衡量VIF；检测p值
 
        - 删除不重要的变量
     
-    - checking the linear regression assumptions
+## Checking for the assumptions and rebuilding the model
+
+   - checking the linear regression assumptions
     
         - mean of residuals should be zero 残差的平均值应该为0
         
@@ -76,7 +78,7 @@
         
         - normality of error terms 误差项的正态性
 
-- Evaluation metrics 评估指标
+## Evaluation metrics 评估指标
 
     - R-squared
 
@@ -87,9 +89,9 @@
     - Apply cross validation to improve the model and evaluate it using different evaluation metrics
 
 
-- Prediction on the test dataset
+## Prediction on the test dataset
 
-- Conclustion and recommendations
+## Conclustion and recommendations
     
     
     
