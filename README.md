@@ -1,8 +1,8 @@
-## Author
+# Author
 
 - Chang Ge
 
-## Table of Contents
+# Table of Contents
 
 ### Machine Learning Projects
 
