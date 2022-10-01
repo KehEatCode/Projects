@@ -1,5 +1,3 @@
-# Projects
-
 ## Author
 
 - Chang Ge
