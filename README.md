@@ -25,3 +25,6 @@
 - [1_ANN: Street View Housing Number Digit Recoginition.ipynb](https://github.com/KehEatCode/Projects/blob/main/Deep%20learning/Artificial%20Neural%20Networks:%20Street%20View%20Housing%20Number%20Digit%20Recognition.ipynb)
 
 - [2_CNN: Street View Housing Number Digit Recoginition.ipynb](https://github.com/KehEatCode/Projects/blob/main/Deep%20learning/Convolutional%20Neural%20Networks:%20Street%20View%20Housing%20Number%20Digit%20Recognition.ipynb)
+
+### Time Series
+-[1_TimeSeries: Canadian Oil Production Prediction.ipynb](https://github.com/KehEatCode/Projects/blob/main/TimeSeries/TimeSeries_Canadian_Oil_Production_Prediction.ipynb)
