@@ -32,5 +32,5 @@
 
 ### Tableau dashboard
 
-- [1_Tableau dashboard: Superstore Sales Overview]
+- [1_Tableau dashboard: Superstore Sales Overview.twbx]
 (https://github.com/KehEatCode/Projects/blob/main/Tableau%20Dashboard_superstore.twbx)
