@@ -29,3 +29,8 @@
 ### Time Series
 
 - [1_TimeSeries: Canadian Oil Production Prediction.ipynb](https://github.com/KehEatCode/Projects/blob/main/TimeSeries/TimeSeries_Canadian_Oil_Production_Prediction.ipynb)
+
+### Tableau dashboard
+
+- [1_Tableau dashboard: Superstore Sales Overview]
+(https://github.com/KehEatCode/Projects/blob/main/Tableau%20Dashboard_superstore.twbx)
