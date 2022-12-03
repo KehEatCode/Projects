@@ -33,4 +33,5 @@
 ### Tableau dashboard
 
 - [1_Tableau dashboard: Superstore Sales Overview.twbx]
+(https://github.com/KehEatCode/Projects/blob/main/Superstore%20sales%20and%20profits.pdf)
 (https://github.com/KehEatCode/Projects/blob/main/Tableau%20Dashboard_superstore.twbx)
